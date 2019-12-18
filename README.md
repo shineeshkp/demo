@@ -13,3 +13,9 @@
 |![](https://raw.githubusercontent.com/shineeshkp/demo/master/images/5-0_finance_1366.jpg)   | Accounts  |
 |Banking   |![](https://raw.githubusercontent.com/shineeshkp/demo/master/images/5-0_finance_1366.jpg)   |
 | ![Energy](https://raw.githubusercontent.com/shineeshkp/demo/master/images/5-0_finance_1366.jpg "Energy")  |Energy   |
+
+
+```python
+for i in range(0,100,3):
+	pr
+
